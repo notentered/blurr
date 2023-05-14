@@ -1,7 +1,7 @@
 fastcore
 fastai 
 matplotlib
-transformers[sentencepiece] 
+transformers[sentencepiece,torch]==4.28.1
 datasets 
 sentencepiece 
 seqeval 
